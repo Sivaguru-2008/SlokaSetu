@@ -283,15 +283,18 @@ export const getSlokaRelated = async (req: Request, res: Response, next: NextFun
       })
     ]);
 
+    const formattedOccasions = occasionLinks.map(ol => ({
+      relationshipType: ol.relationshipType,
+      notes: ol.notes,
+      ...ol.occasion
+    }));
+
     res.json({
       success: true,
       data: {
         relatedSlokas,
-        relatedOccasions: occasionLinks.map(ol => ({
-          relationshipType: ol.relationshipType,
-          notes: ol.notes,
-          ...ol.occasion
-        })),
+        relatedOccasions: formattedOccasions,
+        relatedByOccasions: formattedOccasions,
         relatedByDeity: relatedSlokas.filter(s => current.deityId && s.deityId === current.deityId),
         relatedByCategory: relatedSlokas.filter(s => s.categoryId === current.categoryId)
       }

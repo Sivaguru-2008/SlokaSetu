@@ -4,6 +4,11 @@ import morgan from 'morgan';
 import routes from './routes';
 import { errorHandler } from './middleware/errorHandler';
 
+// Ensure BigInt values from PostgreSQL/Prisma can be safely serialized to JSON
+(BigInt.prototype as any).toJSON = function () {
+  return Number(this);
+};
+
 export const createApp = () => {
   const app = express();
 

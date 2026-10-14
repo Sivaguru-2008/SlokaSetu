@@ -92,7 +92,7 @@ export const getAdminStats = async (req: AuthenticatedRequest, res: Response, ne
       recentReviews,
       recentAuditLogs
     ] = await Promise.all([
-      prisma.sloka.count({ where: { verificationStatus: VerificationStatus.PUBLISHED } }),
+      prisma.sloka.count({ where: { OR: [{ isPublished: true }, { verificationStatus: { in: [VerificationStatus.PUBLISHED, VerificationStatus.VERIFIED] } }] } }),
       prisma.sloka.count({ where: { verificationStatus: { in: [VerificationStatus.DRAFT, VerificationStatus.UNDER_REVIEW] } } }),
       prisma.occasion.count(),
       prisma.slokaVersion.count(),
