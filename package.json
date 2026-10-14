@@ -1,0 +1,11 @@
+{
+  "name": "slokasetu-workspace",
+  "version": "1.0.0",
+  "description": "SlokaSetu Multilingual Devotional Knowledge Platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "cd backend && npm run dev",
+    "test": "cd backend && npm test"
+  }
+}

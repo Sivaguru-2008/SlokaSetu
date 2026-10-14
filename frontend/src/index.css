@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FDFCF7;
+    color: #2D2424;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Cinzel', Georgia, serif;
+    letter-spacing: 0.02em;
+  }
+}
+
+.script-devanagari {
+  font-family: 'Noto Sans Devanagari', 'Inter', sans-serif;
+}
+
+.script-telugu {
+  font-family: 'Noto Sans Telugu', 'Inter', sans-serif;
+}
+
+.script-tamil {
+  font-family: 'Noto Sans Tamil', 'Inter', sans-serif;
+}
+
+.script-kannada {
+  font-family: 'Noto Sans Kannada', 'Inter', sans-serif;
+}
+
+.script-malayalam {
+  font-family: 'Noto Sans Malayalam', 'Inter', sans-serif;
+}
+
+/* Subtle decorative border motifs */
+.border-gold-subtle {
+  border-color: rgba(212, 175, 55, 0.35);
+}
+
+.bg-pattern {
+  background-color: #FDFCF7;
+  background-image: radial-gradient(#EADFC9 0.75px, transparent 0.75px);
+  background-size: 20px 20px;
+}
+
+/* Puja Mode (Warm Low-Light Devotional Theme) */
+.puja-mode {
+  background-color: #171010 !important;
+  color: #F6EDE0 !important;
+}
+
+.puja-mode header,
+.puja-mode footer,
+.puja-mode .bg-white,
+.puja-mode .bg-stone-50,
+.puja-mode .bg-ivory-50,
+.puja-mode .bg-ivory-100 {
+  background-color: #211818 !important;
+  color: #F6EDE0 !important;
+  border-color: #4A3525 !important;
+}
+
+.puja-mode .text-stone-900,
+.puja-mode .text-stone-800,
+.puja-mode .text-stone-700 {
+  color: #F8F1E5 !important;
+}
+
+.puja-mode .text-stone-600,
+.puja-mode .text-stone-500 {
+  color: #D3C3B2 !important;
+}
+
+.puja-mode .bg-stone-100 {
+  background-color: #2D2020 !important;
+}
+
+/* Print Styles for Printable Puja Leaflet */
+@media print {
+  body {
+    background-color: #FFFFFF !important;
+    color: #000000 !important;
+  }
+  header, footer, button, .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .printable-leaflet {
+    page-break-inside: avoid;
+    border: 2px solid #8B0000;
+    padding: 20px;
+    margin: 10px;
+  }
+}

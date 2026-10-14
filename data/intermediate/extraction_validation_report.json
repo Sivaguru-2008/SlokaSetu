@@ -1,0 +1,39 @@
+{
+  "totalSourceDocuments": 4,
+  "sources": [
+    {
+      "name": "SRI MAHAGANAPATHI HOMAM JULY.pdf",
+      "pages": 2,
+      "status": "VERIFIED",
+      "officialEvent": "Sri Mahaganapathi Homam – 22/07/2026, Chennai"
+    },
+    {
+      "name": "ENGLISH.pdf",
+      "pages": 46,
+      "status": "VERIFIED",
+      "script": "Latin (IAST)",
+      "language": "Sanskrit",
+      "slokasExtracted": 27
+    },
+    {
+      "name": "TELUGU.pdf",
+      "pages": 57,
+      "status": "VERIFIED",
+      "script": "Telugu",
+      "language": "Sanskrit",
+      "slokasExtracted": 27
+    },
+    {
+      "name": "TAMIL.pdf",
+      "pages": 46,
+      "status": "VERIFIED",
+      "script": "Tamil",
+      "language": "Sanskrit",
+      "slokasExtracted": 27
+    }
+  ],
+  "totalCanonicalSlokas": 27,
+  "totalVersions": 81,
+  "totalOccasions": 7,
+  "averageConfidence": 0.9833
+}

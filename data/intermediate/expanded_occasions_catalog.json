@@ -1,0 +1,818 @@
+[
+  {
+    "slug": "amrita-sri-mahaganapathi-homam-2026",
+    "name": "Sri Mahaganapathi Homam – Chennai Campus",
+    "category": "Amrita Institutional Occasion",
+    "institutionCode": "ASE-CHN",
+    "primaryDeity": "Ganesha",
+    "description": "Annual Sri Mahaganapathi Homam organized by the Department of Amrita Darshanam at Amrita School of Engineering, Chennai. An auspicious spiritual beginning for the academic semester invoking divine grace and intellectual clarity.",
+    "significance": "Conducted under the spiritual guidance of Sri Mata Amritanandamayi Devi (Amma). Students, faculty, and monastic disciples join in sacred parayanam and havan fire offerings for holistic well-being and academic success.",
+    "whatHappensToday": "The ceremony commences at 8:00 AM with Ganapathi Puja, followed by Sankalpam by senior administrators and faculty. Monastic disciples (Swamijis) lead the sacred Agni Mukham and continuous parayanam. Modakas, ghee, herbs, and bilva leaves are offered into the sacrificial fire.",
+    "preparationGuide": "1. Arrive at the Homam venue by 7:45 AM in traditional attire;\n2. Chant Sri Amma Dhyanam and Sri Ganesha Dhyanam collectively;\n3. Follow the 15-stotra Parayanam booklet distributed by Amrita Darshanam;\n4. Participate in Mahapurnahuti and receive holy sacred ash (vibhuti) and prasadam.",
+    "dates": [
+      {
+        "gregorianDate": "2026-07-22T08:00:00.000Z",
+        "year": 2026,
+        "region": "Amrita Chennai Campus",
+        "calendarConvention": "Institutional Academic Calendar",
+        "sourceReference": "SRI MAHAGANAPATHI HOMAM JULY.pdf (Page 1-2)"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "amma-dhyanam",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 1,
+        "notes": "Official Programme Item 1"
+      },
+      {
+        "slug": "lalita-sahasranama-stotram",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 2,
+        "notes": "Official Programme Item 3"
+      },
+      {
+        "slug": "mahaganapathi-dhyanam",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 3,
+        "notes": "Official Programme Item 4"
+      },
+      {
+        "slug": "maha-ganesha-pancharatnam",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 4,
+        "notes": "Official Programme Item 5"
+      },
+      {
+        "slug": "vishnu-sahasranamam",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 5,
+        "notes": "Official Programme Item 11"
+      },
+      {
+        "slug": "maha-vishnu-stotram",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 6,
+        "notes": "Official Programme Item 12"
+      },
+      {
+        "slug": "venkateswara-stotram",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 7,
+        "notes": "Official Programme Item 13"
+      },
+      {
+        "slug": "sudarshana-ashtakam",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 8,
+        "notes": "Official Programme Item 14"
+      },
+      {
+        "slug": "govinda-namavali",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 9,
+        "notes": "Official Programme Item 15"
+      },
+      {
+        "slug": "kshama-aparadha-stotram",
+        "relationshipType": "CURATED_RECOMMENDATION",
+        "order": 10,
+        "notes": "Concluding surrender prayer"
+      }
+    ],
+    "sourceFile": "SRI MAHAGANAPATHI HOMAM JULY.pdf"
+  },
+  {
+    "slug": "amritavarsham-amma-birthday",
+    "name": "Amritavarsham – Amma's Birthday",
+    "category": "Amrita Institutional Occasion",
+    "institutionCode": "ASE-CHN",
+    "primaryDeity": "Mata Amritanandamayi Devi",
+    "description": "The annual worldwide birthday celebration of Sri Mata Amritanandamayi Devi (Amma), observed across all Amrita campuses and humanitarian centers with mass prayers and seva projects.",
+    "significance": "Dedicated to universal peace (Loka Samastha Sukhino Bhavantu), environmental protection, cultural heritage revitalization, and selfless service.",
+    "whatHappensToday": "Celebrations begin at dawn with Ganapathi Homam, followed by Sri Lalita Sahasranama Stotram parayanam. Cultural programmes, educational scholarships distribution, and massive community green drives take place across campuses.",
+    "preparationGuide": "1. Join collective morning assembly for Sri Amma Dhyanam;\n2. Participate in Sri Lalita Sahasranama chanting for world harmony;\n3. Undertake campus cleaning and environmental tree planting seva;\n4. Conclude with collective peace prayer (Om Loka Samastha).",
+    "dates": [
+      {
+        "gregorianDate": "2025-09-27T00:00:00.000Z",
+        "year": 2025,
+        "region": "Amrita Chennai & Global",
+        "calendarConvention": "Karthika Star in Kanni Month",
+        "sourceReference": "Mata Amritanandamayi Math Calendar 2025"
+      },
+      {
+        "gregorianDate": "2026-09-27T00:00:00.000Z",
+        "year": 2026,
+        "region": "Amrita Chennai & Global",
+        "calendarConvention": "Karthika Star in Kanni Month",
+        "sourceReference": "Mata Amritanandamayi Math Calendar 2026"
+      },
+      {
+        "gregorianDate": "2027-09-27T00:00:00.000Z",
+        "year": 2027,
+        "region": "Amrita Chennai & Global",
+        "calendarConvention": "Karthika Star in Kanni Month",
+        "sourceReference": "Mata Amritanandamayi Math Calendar 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "amma-dhyanam",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 1,
+        "notes": "Opening dhyanam"
+      },
+      {
+        "slug": "lalita-sahasranama-stotram",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 2,
+        "notes": "Universal peace parayanam"
+      },
+      {
+        "slug": "guru-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 3,
+        "notes": "Reverence to the spiritual guide"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "maha-shivaratri",
+    "name": "Maha Shivaratri",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Shiva",
+    "description": "The great nocturnal celebration of Lord Shiva on Magha/Phalguna Krishna Chaturdashi, marking the cosmic convergence of Shiva and Shakti.",
+    "significance": "Observance of night-long vigil (Jagaran), meditation, fasting, and continuous four-prahara abhishekam with bilva leaves to transcend mental inertia and awaken inner consciousness.",
+    "whatHappensToday": "Devotees observe a day-long fast and stay awake through the night. Four special prahara pujas take place at 6 PM, 9 PM, 12 AM, and 3 AM with offerings of milk, curd, honey, sugarcane juice, and holy bilva leaves.",
+    "preparationGuide": "1. Fast throughout the day with light fruits or water;\n2. Perform Shiva Linga Abhishekam while chanting Lingashtakam;\n3. Offer trifoliate Bilva leaves chanting Sri Bilvashtakam;\n4. Recite Shiva Panchakshari and Shiva Tandava Stotram during the midnight vigil;\n5. Break fast on the following morning after dawn puja.",
+    "dates": [
+      {
+        "gregorianDate": "2025-02-26T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India",
+        "calendarConvention": "Drik Ganita / Magha Krishna Chaturdashi",
+        "sourceReference": "Rashtriya Panchanga 2025"
+      },
+      {
+        "gregorianDate": "2026-02-15T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India",
+        "calendarConvention": "Drik Ganita / Magha Krishna Chaturdashi",
+        "sourceReference": "Rashtriya Panchanga 2026"
+      },
+      {
+        "gregorianDate": "2027-03-06T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India",
+        "calendarConvention": "Drik Ganita / Magha Krishna Chaturdashi",
+        "sourceReference": "Rashtriya Panchanga 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "lingashtakam",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Traditional Abhishekam hymn"
+      },
+      {
+        "slug": "shiva-panchakshari-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Meditation on Na-Ma-Si-Va-Ya"
+      },
+      {
+        "slug": "bilvashtakam",
+        "relationshipType": "TRADITIONAL",
+        "order": 3,
+        "notes": "Recited during Bilva leaf archana"
+      },
+      {
+        "slug": "siva-tandava-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 4,
+        "notes": "Cosmic dance celebration"
+      },
+      {
+        "slug": "chandrasekhara-ashtakam",
+        "relationshipType": "CURATED_RECOMMENDATION",
+        "order": 5,
+        "notes": "Prayer for health and longevity"
+      },
+      {
+        "slug": "kshama-aparadha-stotram",
+        "relationshipType": "CURATED_RECOMMENDATION",
+        "order": 6,
+        "notes": "Concluding forgiveness prayer"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "ganesh-chaturthi",
+    "name": "Vinayaka Chaturthi (Ganesh Chaturthi)",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Ganesha",
+    "description": "Appearance day of Lord Ganesha on Bhadrapada Shukla Chaturthi, celebrated with clay idols, modaka offerings, and joyous family worship.",
+    "significance": "Celebrates the embodiment of supreme wisdom, learning, obstacle removal, and community unity across all strata of society.",
+    "whatHappensToday": "Clay Ganesha idols are installed during Madhyahna Muhurta (midday). Prana Pratishtha rituals are performed, followed by Shodashopachara puja, offering 21 durva blades, and 21 modakas.",
+    "preparationGuide": "1. Cleanse altar and prepare eco-friendly clay Ganesha;\n2. Recite Sri Mahaganapathi Dhyanam for Prana Pratishtha;\n3. Chant Sri Sankata Nashana Ganesha Stotram and Maha Ganesha Pancharatnam;\n4. Offer sweet modakas and seek blessings for intellect and success.",
+    "dates": [
+      {
+        "gregorianDate": "2025-08-27T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India",
+        "calendarConvention": "Bhadrapada Shukla Chaturthi",
+        "sourceReference": "Rashtriya Panchanga 2025"
+      },
+      {
+        "gregorianDate": "2026-09-14T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India",
+        "calendarConvention": "Bhadrapada Shukla Chaturthi",
+        "sourceReference": "Rashtriya Panchanga 2026"
+      },
+      {
+        "gregorianDate": "2027-09-04T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India",
+        "calendarConvention": "Bhadrapada Shukla Chaturthi",
+        "sourceReference": "Rashtriya Panchanga 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "mahaganapathi-dhyanam",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Prana Pratishtha invocation"
+      },
+      {
+        "slug": "sankata-nashana-ganesha-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Twelve names of Ganesha"
+      },
+      {
+        "slug": "maha-ganesha-pancharatnam",
+        "relationshipType": "TRADITIONAL",
+        "order": 3,
+        "notes": "Adi Shankaracharya's five gems"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "guru-purnima",
+    "name": "Guru Purnima (Vyasa Purnima)",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Guru",
+    "description": "The sacred full-moon day of Ashadha honoring spiritual masters, teachers, and Sage Veda Vyasa.",
+    "significance": "Commencement of Chaturmasya retreat where seekers rededicate their minds to self-study, reflection, and surrender to the Guru.",
+    "whatHappensToday": "Devotees worship the sacred Padukas (sandals) of their Gurus, offer fresh flowers, listen to spiritual discourses, and take vows of sadhana.",
+    "preparationGuide": "1. Meditate on the spiritual teacher at dawn;\n2. Perform Guru Paduka Puja while chanting Sri Guru Paduka Stotram;\n3. Recite Sri Guru Stotram and Sri Gurvashtakam;\n4. Contemplate Sri Dakshinamurthy Stotram for Vedantic non-dual wisdom.",
+    "dates": [
+      {
+        "gregorianDate": "2025-07-10T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India",
+        "calendarConvention": "Ashadha Purnima",
+        "sourceReference": "Indian Astronomical Ephemeris 2025"
+      },
+      {
+        "gregorianDate": "2026-07-29T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India",
+        "calendarConvention": "Ashadha Purnima",
+        "sourceReference": "Indian Astronomical Ephemeris 2026"
+      },
+      {
+        "gregorianDate": "2027-07-18T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India",
+        "calendarConvention": "Ashadha Purnima",
+        "sourceReference": "Indian Astronomical Ephemeris 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "guru-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Salutations to the Guru"
+      },
+      {
+        "slug": "gurvashtakam",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Cultivating spiritual humility"
+      },
+      {
+        "slug": "guru-paduka-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 3,
+        "notes": "Adoration of sacred padukas"
+      },
+      {
+        "slug": "dakshinamurthy-stotram",
+        "relationshipType": "CURATED_RECOMMENDATION",
+        "order": 4,
+        "notes": "Vedantic contemplation"
+      },
+      {
+        "slug": "totakashtakam",
+        "relationshipType": "CURATED_RECOMMENDATION",
+        "order": 5,
+        "notes": "Devoted surrender to master"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "vaikunta-ekadashi",
+    "name": "Vaikunta Ekadashi (Mukkoti Ekadashi)",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Vishnu",
+    "description": "Supreme Ekadashi occurring during solar Dhanur / Margazhi month, celebrated at Tirumala, Srirangam, and Vaishnava temples.",
+    "significance": "Tradition holds that the heavenly gates of Vaikunta (Paramapada Vasal) open on this auspicious dawn.",
+    "whatHappensToday": "Temple gates open before dawn for Paramapada Vasal Darshan. Devotees observe strict waterless or fruit fasting, engage in all-night Vishnu parayanam, and avoid grains.",
+    "preparationGuide": "1. Observe fasting on Ekadashi tithi;\n2. Recite Sri Vishnu Sahasranamam in the morning;\n3. Chant Sri Venkateswara Stotram and Sri Venkateswara Prapatti;\n4. Join community congregational singing of Sri Govinda Namavali;\n5. Recite Sri Sudarshana Ashtakam for protection.",
+    "dates": [
+      {
+        "gregorianDate": "2025-12-31T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India / South India",
+        "calendarConvention": "Solar Dhanur / Drik Ganita",
+        "sourceReference": "TTD Panchangam 2025"
+      },
+      {
+        "gregorianDate": "2026-12-20T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India / South India",
+        "calendarConvention": "Solar Dhanur / Drik Ganita",
+        "sourceReference": "TTD Panchangam 2026"
+      },
+      {
+        "gregorianDate": "2027-12-09T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India / South India",
+        "calendarConvention": "Solar Dhanur / Drik Ganita",
+        "sourceReference": "TTD Panchangam 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "vishnu-sahasranamam",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Morning Sahasranama parayanam"
+      },
+      {
+        "slug": "maha-vishnu-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Garudagamana stotram"
+      },
+      {
+        "slug": "venkateswara-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 3,
+        "notes": "Praise of Lord of Seven Hills"
+      },
+      {
+        "slug": "venkateswara-prapatti",
+        "relationshipType": "TRADITIONAL",
+        "order": 4,
+        "notes": "Total self-surrender"
+      },
+      {
+        "slug": "govinda-namavali",
+        "relationshipType": "TRADITIONAL",
+        "order": 5,
+        "notes": "Congregational singing"
+      },
+      {
+        "slug": "sudarshana-ashtakam",
+        "relationshipType": "CURATED_RECOMMENDATION",
+        "order": 6,
+        "notes": "Protection against distress"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "diwali-lakshmi-puja",
+    "name": "Deepavali & Sri Mahalakshmi Puja",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Lakshmi",
+    "description": "Festival of Lights on Kartika Amavasya welcoming Goddess Mahalakshmi into illuminated homes and enterprises.",
+    "significance": "Celebrates the emergence of Lakshmi during the churning of the cosmic ocean (Samudra Manthana) and the victory of light over spiritual darkness.",
+    "whatHappensToday": "Homes are cleaned and decorated with oil lamps (diyas) and rangolis. Families conduct Mahalakshmi and Ganesha Puja during evening Pradosha Muhurta, offering sweets and lighting fireworks.",
+    "preparationGuide": "1. Illuminate threshold with ghee lamps;\n2. Perform Lakshmi-Ganesha puja during Pradosha Muhurta;\n3. Chant Sri Mahalakshmi Ashtakam and Ashta Lakshmi Stotram;\n4. Recite Sri Vishnu Dwadasa Nama Panjara Stotram for family welfare.",
+    "dates": [
+      {
+        "gregorianDate": "2025-10-20T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India",
+        "calendarConvention": "Kartika Amavasya",
+        "sourceReference": "Rashtriya Panchanga 2025"
+      },
+      {
+        "gregorianDate": "2026-11-08T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India",
+        "calendarConvention": "Kartika Amavasya",
+        "sourceReference": "Rashtriya Panchanga 2026"
+      },
+      {
+        "gregorianDate": "2027-10-29T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India",
+        "calendarConvention": "Kartika Amavasya",
+        "sourceReference": "Rashtriya Panchanga 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "mahalakshmi-ashtakam",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Padma Purana hymn"
+      },
+      {
+        "slug": "ashta-lakshmi-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Eightfold blessings of Mother Lakshmi"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "varalakshmi-vratam",
+    "name": "Varalakshmi Vratam",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Lakshmi",
+    "description": "A sacred observance observed on the Friday preceding the full moon day of Shravana month, dedicated to Goddess Varalakshmi (the boon-bestowing Mother).",
+    "significance": "Celebrated by families praying for health, long life of spouse, peace, progeny, and prosperity. Instituted by Lord Shiva to Goddess Parvati in the Skanda Purana.",
+    "whatHappensToday": "A Kalasham is consecrated with mango leaves, coconut, and turmeric-adorned face of Lakshmi. Yellow holy threads (Nonbu Charadu) are tied to wrists, and special sweet dumplings (Kozhukattai) are offered.",
+    "preparationGuide": "1. Cleanse altar and prepare sacred Varalakshmi Kalasham;\n2. Recite Sri Mahalakshmi Ashtakam and Ashta Lakshmi Stotram;\n3. Offer 9 types of flowers and prasadam;\n4. Tie sacred yellow thread and distribute thamboolam.",
+    "dates": [
+      {
+        "gregorianDate": "2025-08-08T00:00:00.000Z",
+        "year": 2025,
+        "region": "South India / All India",
+        "calendarConvention": "Shravana Shukla Friday",
+        "sourceReference": "South Indian Temple Calendar 2025"
+      },
+      {
+        "gregorianDate": "2026-08-21T00:00:00.000Z",
+        "year": 2026,
+        "region": "South India / All India",
+        "calendarConvention": "Shravana Shukla Friday",
+        "sourceReference": "South Indian Temple Calendar 2026"
+      },
+      {
+        "gregorianDate": "2027-08-13T00:00:00.000Z",
+        "year": 2027,
+        "region": "South India / All India",
+        "calendarConvention": "Shravana Shukla Friday",
+        "sourceReference": "South Indian Temple Calendar 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "mahalakshmi-ashtakam",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Vrata puja recitation"
+      },
+      {
+        "slug": "ashta-lakshmi-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Eight divine aspects"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "krishna-janmashtami",
+    "name": "Sri Krishna Janmashtami (Gokulashtami)",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Vishnu",
+    "description": "The joyful divine appearance of Lord Krishna on the eighth day (Ashtami) of Krishna Paksha in Shravana / Bhadrapada month under Rohini nakshatra.",
+    "significance": "Celebrates the Supreme Lord who descended to re-establish Dharma, deliver the Bhagavad Gita, and shower boundless grace upon devotees.",
+    "whatHappensToday": "Homes are adorned with small rice-flour footprints representing baby Krishna. Fasting continues until midnight, the moment of Krishna's birth, when special milk sweets, butter, and aval (poha) are offered.",
+    "preparationGuide": "1. Fast during the day and decorate altar with butter and flutes;\n2. Chant Sri Govinda Namavali and Sri Vishnu Sahasranamam;\n3. Sing Krishna bhajans until midnight birth celebration;\n4. Offer fresh homemade butter and rock sugar.",
+    "dates": [
+      {
+        "gregorianDate": "2025-08-16T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India",
+        "calendarConvention": "Ashtami Rohini / Drik Ganita",
+        "sourceReference": "Rashtriya Panchanga 2025"
+      },
+      {
+        "gregorianDate": "2026-09-04T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India",
+        "calendarConvention": "Ashtami Rohini / Drik Ganita",
+        "sourceReference": "Rashtriya Panchanga 2026"
+      },
+      {
+        "gregorianDate": "2027-08-25T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India",
+        "calendarConvention": "Ashtami Rohini / Drik Ganita",
+        "sourceReference": "Rashtriya Panchanga 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "govinda-namavali",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Joyful chanting of Govinda names"
+      },
+      {
+        "slug": "maha-vishnu-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Praise of Vishnu's forms"
+      },
+      {
+        "slug": "vishnu-sahasranamam",
+        "relationshipType": "TRADITIONAL",
+        "order": 3,
+        "notes": "Holy thousand names"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "sharad-navaratri-saraswati-puja",
+    "name": "Sharad Navaratri & Saraswati Puja",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Lalita Tripurasundari",
+    "description": "Nine divine nights dedicated to Goddess Durga, Lakshmi, and Saraswati, culminating in Ayudha Puja, Saraswati Puja, and Vijayadashami.",
+    "significance": "Represents the victory of cosmic righteousness (Mahishasuramardini) over ignorance, and the celebration of knowledge, arts, and creative learning.",
+    "whatHappensToday": "Books, musical instruments, and professional tools are sanctified on the altar. Devotees chant Devi stotras continuously, and young children are initiated into writing (Vidyarambham) on Vijayadashami.",
+    "preparationGuide": "1. Set up sacred Golu dolls or Devi altar;\n2. Recite Sri Lalita Sahasranama Stotram daily throughout the nine nights;\n3. On Durgashtami & Mahanavami, chant Sri Mahalakshmi Ashtakam;\n4. Place textbooks before Goddess Saraswati and perform Vidyarambham on Vijayadashami.",
+    "dates": [
+      {
+        "gregorianDate": "2025-09-22T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India",
+        "calendarConvention": "Ashvina Shukla Pratipada to Dashami",
+        "sourceReference": "Rashtriya Panchanga 2025"
+      },
+      {
+        "gregorianDate": "2026-10-11T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India",
+        "calendarConvention": "Ashvina Shukla Pratipada to Dashami",
+        "sourceReference": "Rashtriya Panchanga 2026"
+      },
+      {
+        "gregorianDate": "2027-09-30T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India",
+        "calendarConvention": "Ashvina Shukla Pratipada to Dashami",
+        "sourceReference": "Rashtriya Panchanga 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "lalita-sahasranama-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Core Navaratri parayanam"
+      },
+      {
+        "slug": "mahalakshmi-ashtakam",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Adoration of Mahalakshmi"
+      },
+      {
+        "slug": "dakshinamurthy-stotram",
+        "relationshipType": "CURATED_RECOMMENDATION",
+        "order": 3,
+        "notes": "Knowledge and wisdom invocation"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "kalabhairava-ashtami",
+    "name": "Kalabhairava Ashtami",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Shiva",
+    "description": "Appearance day of Lord Kalabhairava, the guardian form of Shiva, celebrated on Kartika Krishna Ashtami.",
+    "significance": "Invoked for dispelling fear of mortality, protection from malevolent influences, overcoming delays, and purification of past karmic impressions.",
+    "whatHappensToday": "Special pujas are performed at midnight at Bhairava shrines. Offerings of curd rice, vada garlands, and black sesame oil lamps are made.",
+    "preparationGuide": "1. Light a sesame oil lamp at twilight or midnight;\n2. Recite Sri Kalabhairava Ashtakam composed by Adi Shankaracharya;\n3. Chant Shiva Panchakshari and meditate on the transcendence of time.",
+    "dates": [
+      {
+        "gregorianDate": "2025-11-12T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India / Varanasi",
+        "calendarConvention": "Kartika Krishna Ashtami",
+        "sourceReference": "Kashi Vishwanath Temple Ephemeris 2025"
+      },
+      {
+        "gregorianDate": "2026-12-02T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India / Varanasi",
+        "calendarConvention": "Kartika Krishna Ashtami",
+        "sourceReference": "Kashi Vishwanath Temple Ephemeris 2026"
+      },
+      {
+        "gregorianDate": "2027-11-21T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India / Varanasi",
+        "calendarConvention": "Kartika Krishna Ashtami",
+        "sourceReference": "Kashi Vishwanath Temple Ephemeris 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "kalabhairava-ashtakam",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Core eight-stanza hymn of Kashi"
+      },
+      {
+        "slug": "shiva-panchakshari-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Five-syllable mantra"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "sudarshana-jayanti",
+    "name": "Sri Sudarshana Jayanti",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Vishnu",
+    "description": "Appearance day of the cosmic divine discus of Lord Vishnu on Jyeshtha Shukla Dashami.",
+    "significance": "Celebrated to invoke the fiery, protective grace of Lord Sudarshana against negative energies, incurable illnesses, and existential fear.",
+    "whatHappensToday": "Temples conduct Maha Sudarshana Homams with sacred wood and ghee. Devotees chant Sri Sudarshana Ashtakam composed by Swami Vedanta Desika.",
+    "preparationGuide": "1. Meditate on the fiery, radiant form of Lord Sudarshana;\n2. Recite Sri Sudarshana Ashtakam with rhythmic devotion;\n3. Chant Sri Vishnu Dwadasa Nama Panjara Stotram for multi-directional protection;\n4. Seek divine blessings for moral strength and clarity.",
+    "dates": [
+      {
+        "gregorianDate": "2025-06-06T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India / South India",
+        "calendarConvention": "Jyeshtha Shukla Dashami",
+        "sourceReference": "Ahobila Mutt Panchangam 2025"
+      },
+      {
+        "gregorianDate": "2026-06-25T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India / South India",
+        "calendarConvention": "Jyeshtha Shukla Dashami",
+        "sourceReference": "Ahobila Mutt Panchangam 2026"
+      },
+      {
+        "gregorianDate": "2027-06-14T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India / South India",
+        "calendarConvention": "Jyeshtha Shukla Dashami",
+        "sourceReference": "Ahobila Mutt Panchangam 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "sudarshana-ashtakam",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Vedanta Desika's supreme protective hymn"
+      },
+      {
+        "slug": "vishnu-dwadasa-nama-panjara-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Twelve directions armor"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "makara-sankranti",
+    "name": "Makara Sankranti & Pongal",
+    "category": "Hindu Festival",
+    "institutionCode": null,
+    "primaryDeity": "Vishnu",
+    "description": "The sacred solar festival marking the transition of the Sun into the zodiac of Makara (Capricorn) and the beginning of Uttarayana (the northern movement).",
+    "significance": "Celebrates the cosmic life-giving power of Lord Surya, agricultural abundance, thanksgiving to nature, and renewal of spiritual resolve.",
+    "whatHappensToday": "Families boil sweet Pongal rice in clay pots in the open courtyard as the sun rises. In Tamil Nadu, Bhogi, Surya Pongal, and Mattu Pongal are observed; in North India, holy bathing in the Ganga and kite flying take place.",
+    "preparationGuide": "1. Take a sacred morning bath before sunrise;\n2. Offer water (Arghyam) to Lord Surya while chanting Gayatri Mantra;\n3. Recite Sri Maha Vishnu Stotram and Sri Govinda Namavali;\n4. Prepare sweet Pongal and offer thanksgiving to cows and nature.",
+    "dates": [
+      {
+        "gregorianDate": "2025-01-14T00:00:00.000Z",
+        "year": 2025,
+        "region": "All India / Tamil Nadu",
+        "calendarConvention": "Solar Makara Transit",
+        "sourceReference": "Rashtriya Panchanga 2025"
+      },
+      {
+        "gregorianDate": "2026-01-14T00:00:00.000Z",
+        "year": 2026,
+        "region": "All India / Tamil Nadu",
+        "calendarConvention": "Solar Makara Transit",
+        "sourceReference": "Rashtriya Panchanga 2026"
+      },
+      {
+        "gregorianDate": "2027-01-14T00:00:00.000Z",
+        "year": 2027,
+        "region": "All India / Tamil Nadu",
+        "calendarConvention": "Solar Makara Transit",
+        "sourceReference": "Rashtriya Panchanga 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "maha-vishnu-stotram",
+        "relationshipType": "TRADITIONAL",
+        "order": 1,
+        "notes": "Thanksgiving to cosmic sustainer"
+      },
+      {
+        "slug": "govinda-namavali",
+        "relationshipType": "TRADITIONAL",
+        "order": 2,
+        "notes": "Celebration of Krishna as cowherd"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  },
+  {
+    "slug": "vishu-festival",
+    "name": "Vishu – New Year & Auspicious Awakening",
+    "category": "Amrita Institutional Occasion",
+    "institutionCode": "ASE-CHN",
+    "primaryDeity": "Vishnu",
+    "description": "Traditional astrological new year in Kerala and across Amrita institutions marking the vernal equinox, celebrated with Vishukkani.",
+    "significance": "Symbolizes the first sight of auspicious things at dawn, setting the tone of abundance, spiritual focus, and joy for the coming year.",
+    "whatHappensToday": "The 'Vishukkani' is arranged the night before with yellow Kani Konna flowers, golden cucumber, grains, coins, mirror, and an idol of Lord Krishna. Family members are led blindfolded at dawn to open their eyes first onto the radiant sight.",
+    "preparationGuide": "1. View the auspicious Vishukkani at early dawn;\n2. Receive blessings and Vishu Kaineettam from elders;\n3. Recite Sri Govinda Namavali and Sri Vishnu Sahasranamam;\n4. Share grand festive feast (Vishu Sadya) with campus community.",
+    "dates": [
+      {
+        "gregorianDate": "2025-04-14T00:00:00.000Z",
+        "year": 2025,
+        "region": "Amrita Campuses / Kerala & Tamil Nadu",
+        "calendarConvention": "Solar Medam 1",
+        "sourceReference": "Amrita Darshanam Liturgical Calendar 2025"
+      },
+      {
+        "gregorianDate": "2026-04-14T00:00:00.000Z",
+        "year": 2026,
+        "region": "Amrita Campuses / Kerala & Tamil Nadu",
+        "calendarConvention": "Solar Medam 1",
+        "sourceReference": "Amrita Darshanam Liturgical Calendar 2026"
+      },
+      {
+        "gregorianDate": "2027-04-14T00:00:00.000Z",
+        "year": 2027,
+        "region": "Amrita Campuses / Kerala & Tamil Nadu",
+        "calendarConvention": "Solar Medam 1",
+        "sourceReference": "Amrita Darshanam Liturgical Calendar 2027"
+      }
+    ],
+    "slokaSlugs": [
+      {
+        "slug": "govinda-namavali",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 1,
+        "notes": "Krishna Vishukkani chanting"
+      },
+      {
+        "slug": "amma-dhyanam",
+        "relationshipType": "OFFICIAL_PROGRAMME",
+        "order": 2,
+        "notes": "Invocation of Mother's blessings"
+      },
+      {
+        "slug": "vishnu-sahasranamam",
+        "relationshipType": "TRADITIONAL",
+        "order": 3,
+        "notes": "New year auspicious parayanam"
+      }
+    ],
+    "sourceFile": "ENGLISH.pdf"
+  }
+]
